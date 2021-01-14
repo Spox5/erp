@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\bin\Debug\netcoreapp3.1\ERP.Data.deps.json
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\bin\Debug\netcoreapp3.1\ERP.Data.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\bin\Debug\netcoreapp3.1\ERP.Data.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\bin\Debug\netcoreapp3.1\ERP.Data.dll
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\bin\Debug\netcoreapp3.1\ERP.Data.pdb
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\obj\Debug\netcoreapp3.1\ERP.Data.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\obj\Debug\netcoreapp3.1\ERP.Data.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\obj\Debug\netcoreapp3.1\ERP.Data.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\obj\Debug\netcoreapp3.1\ERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\obj\Debug\netcoreapp3.1\ERP.Data.dll
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\obj\Debug\netcoreapp3.1\ERP.Data.pdb
+C:\Users\ThinkPad\source\repos\ERP\ERP.Data\obj\Debug\netcoreapp3.1\ERP.Data.genruntimeconfig.cache

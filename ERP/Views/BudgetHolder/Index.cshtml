@@ -1,0 +1,38 @@
+﻿zxxzcc
+
+@*<div class="main">
+    Dysponenci budżetu:
+
+    <button class="add-button"><span>Dodaj dysponenta</span></button>
+</div>
+
+<script>
+    const addButton = document.querySelector('.add-button');
+
+    bindEvents();
+
+    function bindEvents() {
+
+        addButton.onclick = () => {
+            addBudgetHolder();
+        }
+    }
+
+    function addBudgetHolder() {
+        var budgetHolder = {
+            name: "Musiela",
+        };
+
+        fetch("/BudgetHolder/AddBudgetHolder", {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(budgetHolder)
+
+        })
+            .then(response => response.json())
+            
+
+    }
+</script>*@

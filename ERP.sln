@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP", "ERP\ERP.csproj", "{4701D7E2-C1F3-4527-9EBB-C43C75698643}"
+	ProjectSection(ProjectDependencies) = postProject
+		{902FEA73-2A22-4D82-90ED-91EB81445F0B} = {902FEA73-2A22-4D82-90ED-91EB81445F0B}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.Data", "ERP.Data\ERP.Data.csproj", "{902FEA73-2A22-4D82-90ED-91EB81445F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4701D7E2-C1F3-4527-9EBB-C43C75698643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4701D7E2-C1F3-4527-9EBB-C43C75698643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4701D7E2-C1F3-4527-9EBB-C43C75698643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4701D7E2-C1F3-4527-9EBB-C43C75698643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902FEA73-2A22-4D82-90ED-91EB81445F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902FEA73-2A22-4D82-90ED-91EB81445F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902FEA73-2A22-4D82-90ED-91EB81445F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902FEA73-2A22-4D82-90ED-91EB81445F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84177EF0-B685-4BDD-B064-490F505AAB7A}
+	EndGlobalSection
+EndGlobal
